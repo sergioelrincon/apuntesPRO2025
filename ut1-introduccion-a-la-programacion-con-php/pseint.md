@@ -1,3 +1,7 @@
+---
+description: Introducción al software de generación de pseudocódigo.
+---
+
 # PSeint
 
 ## Características del pseudocódigo en PSeInt
