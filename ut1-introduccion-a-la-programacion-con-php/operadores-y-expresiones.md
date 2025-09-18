@@ -68,7 +68,13 @@ Se usan para combinar condiciones y tomar decisiones más complejas.
 | O        | OR (o)      | nota > 5 O asistencia > 75    | Verdadero si al menos una lo es      |
 | NO       | NOT (no)    | NO (esMayor)                  | Invierte el valor: Verdadero ↔ Falso |
 
-***
+aAlgebra de Boole
+
+<figure><img src="../.gitbook/assets/Tabla de verdad AND (&#x26;&#x26;).png" alt="" width="288"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Tabla de verdad NOT (!).png" alt="" width="282"><figcaption></figcaption></figure>
 
 ### Precedencia de operadores
 
