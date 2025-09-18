@@ -117,7 +117,7 @@ Con las variables podemos realizar operaciones matemáticas, comparaciones, asig
 
 ***
 
-### Práctica recomendada
+### Recomendación
 
 A medida que vayas creando programas, intenta usar variables con nombres significativos, el tipo de dato correcto y buena organización.
 
